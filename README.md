@@ -1,9 +1,13 @@
 ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1060&t=st=1659822449~exp=1659823049~hmac=305b2c7cb292dbd6b99806372b51209874334cd8a6c42da42729f250081c83a5)
+
+
 <h1 align="center">Hi 👋, I'm Mohammad Shahin</h1>
-<h3 align="center">A passionate Full Stack developer from Jordan 🇯🇴</h3>
+<h3 align="center">A passionate Full Stack developer from Jordan 🇯🇴!()
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohshahin&label=Profile%20views&color=0e75b6&style=flat" alt="mohshahin" /> </p>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=mohshahin&label=Profile%20views&color=0e75b6&style=flat" alt="mohshahin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohshahin" alt="mohshahin" /></a> </p>
 
@@ -15,7 +19,7 @@
 
 - 📫 How to reach me **Shahin.moh2003@gmail.com**
 
-- ⚡ Fun fact **I am an LAU student**
+- 👨‍🎓 University **I am an LAU student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
