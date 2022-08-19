@@ -1,13 +1,7 @@
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1060&t=st=1659822449~exp=1659823049~hmac=305b2c7cb292dbd6b99806372b51209874334cd8a6c42da42729f250081c83a5)
-
-
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Shahin</h1>
 <h3 align="center">A passionate Full Stack developer from Jordan 🇯🇴!()
 </h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
-
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=mohshahin&label=Profile%20views&color=0e75b6&style=flat" alt="mohshahin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohshahin" alt="mohshahin" /></a> </p>
 
